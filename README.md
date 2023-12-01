@@ -2,7 +2,8 @@
 
 ###   Inovação, Praticidade e Muito bom gosto 📲 💻
  
-Somos uma equipe apaixonada por tecnologia, comprometida em impulsionar o sucesso dos nossos clientes por meio de soluções inovadoras. Desde [ano de fundação], temos liderado o caminho na criação de produtos e serviços que resolvem desafios complexos.
+Somos uma equipe apaixonada por tecnologia, comprometida em impulsionar o sucesso dos nossos clientes por meio de soluções inovadoras. 
+Acreditamos que a tecnologia tem o poder de mudar o mundo. Estamos empenhados em fornecer soluções que não apenas atendam, mas superem as expectativas, moldando o futuro digital.
  
    
  - Visite nosso site: [site](#)
@@ -15,7 +16,8 @@ Somos uma equipe apaixonada por tecnologia, comprometida em impulsionar o sucess
 
 ###   Innovation, Practicality and Great taste 📲 💻
  
-We are a team passionate about technology, committed to driving our customers' success through innovative solutions. Since [founding year], we have led the way in creating products and services that solve complex challenges.
+We are a team passionate about technology, committed to driving our customers' success through innovative solutions. 
+We believe that technology has the power to change the world. We are committed to providing solutions that not only meet, but exceed expectations, shaping the digital future.
  
    
  - Visit our website: [site](#)
